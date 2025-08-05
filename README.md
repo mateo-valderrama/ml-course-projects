@@ -9,6 +9,7 @@ This repository showcases a collection of projects completed as part of a machin
 - Support Vector Machines
 - Neural Networks
 - Unsupervised Learning (Clustering, PCA)
+- Natural Language Processing (NLP)
 
 Inside each assignment folder, the README will explain:
 - The objective of the assignment
